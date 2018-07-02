@@ -6,7 +6,7 @@
 
 - **Localización**: Cubículo 2, edificio 3K-4
 
-- **Horario**: Lunes a viernes de 8:00 a 9:00 hrs.
+- **Horario**: Lunes a viernes de 10:00 a 11:00 hrs.
 
 
 - **Asesorías**: Estaré disponible todos los días de 14:00 a 15:00 hrs. 
