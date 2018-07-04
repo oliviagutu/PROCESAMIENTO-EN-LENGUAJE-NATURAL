@@ -23,7 +23,21 @@
 1. Expresiones regulares, normalización de texto y edición de distancia.
 
 (https://web.stanford.edu/~jurafsky/slp3/slides/2_TextProc.pdf)
+(https://web.stanford.edu/%7Ejurafsky/slp3/slides/2_EditDistance.pdf)
 
 2. Transductores de estados finitos
 
 (http://web.cs.ucdavis.edu/~rogaway/classes/120/spring13/eric-transducers.pdf)
+
+3. Lenguaje modelado con n-grams
+
+(https://web.stanford.edu/%7Ejurafsky/slp3/slides/LM_4.pdf)
+
+4. Corrección ortográfica y canales ruidosos
+
+(https://web.stanford.edu/%7Ejurafsky/slp3/slides/6_Spell.pdf)
+
+5. Clasificación de Naive Bayes y análsis de sentimiento 
+
+(https://web.stanford.edu/%7Ejurafsky/slp3/slides/7_NB.pdf)
+(https://web.stanford.edu/%7Ejurafsky/slp3/slides/7_Sent.pdf)
