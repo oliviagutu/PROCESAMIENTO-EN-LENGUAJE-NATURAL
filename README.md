@@ -22,6 +22,7 @@
 
 1. Expresiones regulares, normalización de texto y edición de distancia.
 
+http://www.grymoire.com/Unix/Grep.html
 (https://web.stanford.edu/~jurafsky/slp3/slides/2_TextProc.pdf)
 (https://web.stanford.edu/%7Ejurafsky/slp3/slides/2_EditDistance.pdf)
 
