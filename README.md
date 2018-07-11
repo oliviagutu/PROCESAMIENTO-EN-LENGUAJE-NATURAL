@@ -22,9 +22,12 @@
 
 1. Expresiones regulares, normalización de texto y edición de distancia.
 
-http://www.grymoire.com/Unix/Grep.html
+(http://www.grymoire.com/Unix/Grep.html)
 (https://web.stanford.edu/~jurafsky/slp3/slides/2_TextProc.pdf)
 (https://web.stanford.edu/%7Ejurafsky/slp3/slides/2_EditDistance.pdf)
+
+Linguistic Data Consortium (https://www.ldc.upenn.edu)
+Penn Treebank Tokenization (ftp://ftp.cis.upenn.edu/pub/treebank/public_html/tokenization.html)
 
 2. Transductores de estados finitos
 
