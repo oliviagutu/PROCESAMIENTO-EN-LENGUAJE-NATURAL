@@ -33,7 +33,7 @@
 
 [Linguistic Data Consortium](https://www.ldc.upenn.edu)
 
-[Penn Treebank Tokenization](ftp://ftp.cis.upenn.edu/pub/treebank/public_html/tokenization.html)
+[Penn Treebank Tokenization](ftp.cis.upenn.edu/pub/treebank/public_html/tokenization.html)
 
 2. Transductores de estados finitos
 
