@@ -31,6 +31,8 @@
 
 [Introduction to SED]
 
+[BYU Corpora](https://corpus.byu.edu)
+
 [Linguistic Data Consortium](https://www.ldc.upenn.edu)
 
 <p>
