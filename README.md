@@ -27,9 +27,11 @@
 (https://web.stanford.edu/~jurafsky/slp3/slides/2_TextProc.pdf)
 (https://web.stanford.edu/%7Ejurafsky/slp3/slides/2_EditDistance.pdf)
 
-[VIM tutor]
+[VIM tutor](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor)
 
-[Introduction to SED]
+[Introduction to SED](http://www.grymoire.com/Unix/Sed.html)
+
+[Linux SED command](https://www.computerhope.com/unix/used.htm)
 
 [BYU Corpora](https://corpus.byu.edu)
 
