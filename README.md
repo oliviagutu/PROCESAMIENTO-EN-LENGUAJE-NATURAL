@@ -18,6 +18,39 @@
    
 (https://web.stanford.edu/~jurafsky/slp3/)
 
+
+# EQUIPOS
+
+*Equipo 1* 
+
+Bárbara (jefe)
+
+Irving
+
+Mario
+
+*Equipo 2*
+
+Nan (jefe)
+
+Víctor
+
+Brayan
+
+*Equipo 3*
+
+Jorge (jefe)
+
+Eduardo
+
+Raúl
+
+*Equipo 4*
+
+Paty (jefe)
+
+José
+
 # Contenido del curso
 
 
