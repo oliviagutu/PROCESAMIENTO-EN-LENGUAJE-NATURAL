@@ -96,4 +96,5 @@ José
 5. Clasificación de Naive Bayes y análsis de sentimiento 
 
 (https://web.stanford.edu/%7Ejurafsky/slp3/slides/7_NB.pdf)
+
 (https://web.stanford.edu/%7Ejurafsky/slp3/slides/7_Sent.pdf)
