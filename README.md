@@ -58,10 +58,14 @@ José
 
 - Material
 
+[Um and Uh tienen significado distinto](http://www.columbia.edu/~rmk7/HC/HC_Readings/Clark_Fox.pdf)
+
 (https://archive.org/stream/Rayuela_201405/Rayuela_djvu.txt)
 
 (http://www.grymoire.com/Unix/Grep.html)
+
 (https://web.stanford.edu/~jurafsky/slp3/slides/2_TextProc.pdf)
+
 (https://web.stanford.edu/%7Ejurafsky/slp3/slides/2_EditDistance.pdf)
 
 [VIM tutor](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor)
