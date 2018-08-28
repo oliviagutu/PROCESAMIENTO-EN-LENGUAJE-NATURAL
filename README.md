@@ -60,7 +60,7 @@ José
 
 [Zipft vs Heaps's law](http://boytsov.info/pubs/heaps2zipf.pdf)
 
-[Um and Uh tienen significado distinto](http://www.columbia.edu/~rmk7/HC/HC_Readings/Clark_Fox.pdf)
+[Um and Uh en el habla espontánea](http://www.columbia.edu/~rmk7/HC/HC_Readings/Clark_Fox.pdf)
 
 (https://archive.org/stream/Rayuela_201405/Rayuela_djvu.txt)
 
