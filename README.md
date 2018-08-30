@@ -68,7 +68,7 @@ José
 
 [Zipft vs Heaps's law](http://boytsov.info/pubs/heaps2zipf.pdf)
 
-[Um and Uh en el habla espontánea](http://www.columbia.edu/~rmk7/HC/HC_Readings/Clark_Fox.pdf)
+[Using 'uh' and 'um' in spontaneous speaking](http://www.columbia.edu/~rmk7/HC/HC_Readings/Clark_Fox.pdf)
 
 
 
