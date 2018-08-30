@@ -58,6 +58,8 @@ José
 
 - Material
 
+[Satistical Laws in Linguistics](https://arxiv.org/pdf/1502.03296.pdf)
+
 [Zipft vs Heaps's law](http://boytsov.info/pubs/heaps2zipf.pdf)
 
 [Um and Uh en el habla espontánea](http://www.columbia.edu/~rmk7/HC/HC_Readings/Clark_Fox.pdf)
