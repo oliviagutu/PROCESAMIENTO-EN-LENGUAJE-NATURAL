@@ -58,6 +58,8 @@ José
 
 - Material
 
+[Sed examples](http://sed.sourceforge.net/sed1line.txt)
+
 [Penn Treebank tokenization](ftp://ftp.cis.upenn.edu/pub/treebank/public_html/tokenization.html)
 
 [Satistical Laws in Linguistics](https://arxiv.org/pdf/1502.03296.pdf)
