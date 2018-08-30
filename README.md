@@ -58,6 +58,8 @@ José
 
 - Material
 
+[Sed tutorial](http://www.grymoire.com/Unix/Sed.html)
+
 [Sed examples](http://sed.sourceforge.net/sed1line.txt)
 
 [Penn Treebank tokenization](ftp://ftp.cis.upenn.edu/pub/treebank/public_html/tokenization.html)
