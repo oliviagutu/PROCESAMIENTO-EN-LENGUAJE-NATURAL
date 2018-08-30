@@ -58,33 +58,18 @@ José
 
 - Material
 
+[Penn Treebank tokinization]<p>
+<a href=ftp.cis.upenn.edu/pub/treebank/public_html/tokenization.html>Penn Treebank Tokenization</a>
+</p>
+
 [Satistical Laws in Linguistics](https://arxiv.org/pdf/1502.03296.pdf)
 
 [Zipft vs Heaps's law](http://boytsov.info/pubs/heaps2zipf.pdf)
 
 [Um and Uh en el habla espontánea](http://www.columbia.edu/~rmk7/HC/HC_Readings/Clark_Fox.pdf)
 
-(https://archive.org/stream/Rayuela_201405/Rayuela_djvu.txt)
 
-(http://www.grymoire.com/Unix/Grep.html)
 
-(https://web.stanford.edu/~jurafsky/slp3/slides/2_TextProc.pdf)
-
-(https://web.stanford.edu/%7Ejurafsky/slp3/slides/2_EditDistance.pdf)
-
-[VIM tutor](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor)
-
-[Introduction to SED](http://www.grymoire.com/Unix/Sed.html)
-
-[Linux SED command](https://www.computerhope.com/unix/used.htm)
-
-[BYU Corpora](https://corpus.byu.edu)
-
-[Linguistic Data Consortium](https://www.ldc.upenn.edu)
-
-<p>
-<a href=ftp.cis.upenn.edu/pub/treebank/public_html/tokenization.html>Penn Treebank Tokenization</a>
-</p>
 2. Transductores de estados finitos
 
 (http://web.cs.ucdavis.edu/~rogaway/classes/120/spring13/eric-transducers.pdf)
