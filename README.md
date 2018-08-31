@@ -58,6 +58,10 @@ José
 
 - Material
 
+[Porter Stemming Algorith](https://tartarus.org/martin/PorterStemmer/)
+
+[An algorithm for suffix stripping](https://www.cs.toronto.edu/~frank/csc2501/Readings/R2_Porter/Porter-1980.pdf)
+
 [Sed tutorial](http://www.grymoire.com/Unix/Sed.html)
 
 [Sed examples](http://sed.sourceforge.net/sed1line.txt)
