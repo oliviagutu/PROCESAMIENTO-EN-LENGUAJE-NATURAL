@@ -57,6 +57,7 @@ José
 1. Expresiones regulares, normalización de texto y edición de distancia.
 
 - Material
+
 [Snowball project](http://snowballstem.org)
 
 [Porter Stemming Algorith](https://tartarus.org/martin/PorterStemmer/)
