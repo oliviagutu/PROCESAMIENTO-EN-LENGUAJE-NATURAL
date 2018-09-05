@@ -58,6 +58,8 @@ José
 
 - Material
 
+[Minimun edit distance](https://eclass.uoa.gr/modules/document/file.php/D464/Σημειώσεις-Αρθρα/1.JonesPevz-ch6dynprogBio.pdf)
+
 [Snowball project](http://snowballstem.org)
 
 [Porter Stemming Algorith](https://tartarus.org/martin/PorterStemmer/)
