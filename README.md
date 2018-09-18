@@ -59,6 +59,8 @@ Material:
 
 [Accessing Text Corpora and Lexical Resources](https://www.nltk.org/book/ch02.html)
 
+[Corpus en español](http://www.corpusdelespanol.org/compare_corpes.asp)
+
 4. Corrección ortográfica y canales ruidosos
 
 (https://web.stanford.edu/%7Ejurafsky/slp3/slides/6_Spell.pdf)
