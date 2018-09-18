@@ -19,37 +19,6 @@
 (https://web.stanford.edu/~jurafsky/slp3/)
 
 
-# EQUIPOS
-
-*Equipo 1* 
-
-Bárbara (jefe)
-
-Irving
-
-Mario
-
-*Equipo 2*
-
-Nan (jefe)
-
-Víctor
-
-Brayan
-
-*Equipo 3*
-
-Jorge (jefe)
-
-Eduardo
-
-Raúl
-
-*Equipo 4*
-
-Paty (jefe)
-
-José
 
 # Contenido del curso
 
@@ -86,7 +55,9 @@ José
 
 3. Lenguaje modelado con n-grams
 
-(https://web.stanford.edu/%7Ejurafsky/slp3/slides/LM_4.pdf)
+Material:
+
+[Accessing Text Corpora and Lexical Resources](https://www.nltk.org/book/ch02.html)
 
 4. Corrección ortográfica y canales ruidosos
 
