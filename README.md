@@ -57,7 +57,7 @@
 
 Material:
 
-[Accessing Text Corpora and Lexical Resources](https://www.nltk.org/book/ch02.html)
+[Word frequency Data](https://www.wordfrequency.info)
 
 [Corpus en español](http://www.corpusdelespanol.org/compare_corpes.asp)
 
