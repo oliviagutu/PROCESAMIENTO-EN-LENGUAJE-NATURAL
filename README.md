@@ -16,8 +16,8 @@
 
 - **Material**: 
    
-(https://web.stanford.edu/~jurafsky/slp3/)
-
+Libro (https://web.stanford.edu/~jurafsky/slp3/)
+Curso Julio (https://unam-pln.github.io)
 
 
 # Contenido del curso
