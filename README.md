@@ -25,8 +25,6 @@
 
 1. Expresiones regulares, normalización de texto y edición de distancia.
 
-- Material
-
 [Minimun edit distance](https://eclass.uoa.gr/modules/document/file.php/D464/Σημειώσεις-Αρθρα/1.JonesPevz-ch6dynprogBio.pdf)
 
 [Snowball project](http://snowballstem.org)
@@ -48,24 +46,16 @@
 [Using 'uh' and 'um' in spontaneous speaking](http://www.columbia.edu/~rmk7/HC/HC_Readings/Clark_Fox.pdf)
 
 
+2. Lenguaje modelado con n-grams
 
-2. Transductores de estados finitos
-
-(http://web.cs.ucdavis.edu/~rogaway/classes/120/spring13/eric-transducers.pdf)
-
-3. Lenguaje modelado con n-grams
-
-Material:
+[Natural Language Toolkit](https://www.nltk.org)
 
 [Word frequency Data](https://www.wordfrequency.info)
 
 [Corpus en español](http://www.corpusdelespanol.org/compare_corpes.asp)
 
-4. Corrección ortográfica y canales ruidosos
 
-(https://web.stanford.edu/%7Ejurafsky/slp3/slides/6_Spell.pdf)
-
-5. Clasificación de Naive Bayes y análsis de sentimiento 
+3. Clasificación de Naive Bayes y análsis de sentimiento 
 
 (https://web.stanford.edu/%7Ejurafsky/slp3/slides/7_NB.pdf)
 
