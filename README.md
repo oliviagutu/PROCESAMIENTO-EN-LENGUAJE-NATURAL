@@ -57,7 +57,7 @@ Curso Julio (https://unam-pln.github.io)
 
 3. Clasificación de Naive Bayes y análsis de sentimiento 
 
-[TF-IDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.1424&rep=rep1&type=pdf)
+[Building a text classifier](https://www.thinkful.com/projects/building-a-text-classifier-using-naive-bayes-499/)
 
 [Discriminative vs Generative](http://papers.nips.cc/paper/2020-on-discriminative-vs-generative-classifiers-a-comparison-of-logistic-regression-and-naive-bayes.pdf)
 
