@@ -23,7 +23,7 @@ Curso Julio (https://unam-pln.github.io)
 # Contenido del curso
 
 
-1. Expresiones regulares, normalización de texto y edición de distancia.
+Expresiones regulares, normalización de texto y edición de distancia.
 
 [Minimun edit distance](https://eclass.uoa.gr/modules/document/file.php/D464/Σημειώσεις-Αρθρα/1.JonesPevz-ch6dynprogBio.pdf)
 
@@ -46,7 +46,7 @@ Curso Julio (https://unam-pln.github.io)
 [Using 'uh' and 'um' in spontaneous speaking](http://www.columbia.edu/~rmk7/HC/HC_Readings/Clark_Fox.pdf)
 
 
-2. Lenguaje modelado con n-grams
+Lenguaje modelado con n-grams
 
 [Natural Language Toolkit](https://www.nltk.org)
 
@@ -55,7 +55,7 @@ Curso Julio (https://unam-pln.github.io)
 [Corpus en español](http://www.corpusdelespanol.org/compare_corpes.asp)
 
 
-3. Clasificación de Naive Bayes y análsis de sentimiento 
+Clasificación de Naive Bayes y análsis de sentimiento 
 
 [Building a text classifier](https://www.thinkful.com/projects/building-a-text-classifier-using-naive-bayes-499/)
 
