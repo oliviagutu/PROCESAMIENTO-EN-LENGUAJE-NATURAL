@@ -64,3 +64,7 @@ Clasificación de Naive Bayes y análsis de sentimiento
 (https://web.stanford.edu/%7Ejurafsky/slp3/slides/7_NB.pdf)
 
 (https://web.stanford.edu/%7Ejurafsky/slp3/slides/7_Sent.pdf)
+
+Vector Semantics
+
+[Sim Lex-999](https://fh295.github.io/simlex.html)
