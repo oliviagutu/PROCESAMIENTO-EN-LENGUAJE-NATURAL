@@ -70,4 +70,4 @@ Penn Treebank tokenization ftp://ftp.cis.upenn.edu/pub/treebank/public_html/toke
 
 [Vectores y semántica](CHARLAFINAL.pdf)
 
-[Bert model] (https://arxiv.org/pdf/1810.04805.pdf)
+[Bert model](https://arxiv.org/pdf/1810.04805.pdf)
