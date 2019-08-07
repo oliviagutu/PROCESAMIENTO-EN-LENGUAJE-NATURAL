@@ -1,18 +1,16 @@
 # PROCESAMIENTO EN LENGUAJE NATURAL
 
-... en proceso de construcción
-
 # Información General
 
 - **Profesor**: [Olivia Gutú](https://github.com/oliviagutu)
 
 - **Localización**: Cubículo 2, edificio 3K-4
 
-- **Horario**: Lunes a viernes de 10:00 a 11:00 hrs.
+- **Horario**: Lunes a viernes de 12:00 a 13:00 hrs.
 
 - **Asesorías**: Estaré disponible todos los días de 14:00 a 15:00 hrs. 
 
-- **Aula**: 3K4-A102
+- **Aula**: 3K4-A101
 
 - **Material**: 
    
@@ -20,7 +18,7 @@ Libro (https://web.stanford.edu/~jurafsky/slp3/)
 Curso Julio (https://unam-pln.github.io)
 
 
-# Contenido del curso
+# Contenido y material del curso
 
 
 Expresiones regulares, normalización de texto y edición de distancia.
