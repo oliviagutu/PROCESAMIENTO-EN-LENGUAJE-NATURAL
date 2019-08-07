@@ -69,3 +69,5 @@ Penn Treebank tokenization ftp://ftp.cis.upenn.edu/pub/treebank/public_html/toke
 [Sim Lex-999](https://fh295.github.io/simlex.html)
 
 [Vectores y semántica](CHARLAFINAL.pdf)
+
+[Bert model] (https://arxiv.org/pdf/1810.04805.pdf)
