@@ -15,6 +15,9 @@
 - **Material**: 
    
 Libro (https://web.stanford.edu/~jurafsky/slp3/)
+
+Curso Universidad de Washington (https://courses.cs.washington.edu/courses/csep517/17sp/)
+
 Curso Julio (https://unam-pln.github.io)
 
 
@@ -71,3 +74,5 @@ Penn Treebank tokenization ftp://ftp.cis.upenn.edu/pub/treebank/public_html/toke
 [Vectores y semántica](CHARLAFINAL.pdf)
 
 [Bert model](https://arxiv.org/pdf/1810.04805.pdf)
+
+[Better Languages models](https://openai.com/blog/better-language-models/)
