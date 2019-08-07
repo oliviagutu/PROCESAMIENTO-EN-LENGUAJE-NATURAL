@@ -67,3 +67,5 @@ Vector Semantics
 (https://web.stanford.edu/%7Ejurafsky/slp3/slides/7_Sent.pdf)
 
 [Sim Lex-999](https://fh295.github.io/simlex.html)
+
+[Vectores y semántica](CHARLAFINAL.pdf)
