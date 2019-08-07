@@ -2,7 +2,7 @@
 
 # Información General
 
-- **Profesor**: [Olivia Gutú](https://github.com/oliviagutu)
+- **Profesora**: [Olivia Gutú](https://github.com/oliviagutu)
 
 - **Localización**: Cubículo 2, edificio 3K-4
 
@@ -18,10 +18,19 @@ Libro (https://web.stanford.edu/~jurafsky/slp3/)
 Curso Julio (https://unam-pln.github.io)
 
 
-# Contenido y material del curso
+# Contenido
 
+Introducción
 
 Expresiones regulares, normalización de texto y edición de distancia.
+
+Lenguaje modelado con n-grams
+
+Clasificación de Naive Bayes y análsis de sentimiento 
+
+Vector Semantics
+
+# Material del curso
 
 [Minimun edit distance](https://eclass.uoa.gr/modules/document/file.php/D464/Σημειώσεις-Αρθρα/1.JonesPevz-ch6dynprogBio.pdf)
 
@@ -43,17 +52,11 @@ Expresiones regulares, normalización de texto y edición de distancia.
 
 [Using 'uh' and 'um' in spontaneous speaking](http://www.columbia.edu/~rmk7/HC/HC_Readings/Clark_Fox.pdf)
 
-
-Lenguaje modelado con n-grams
-
 [Natural Language Toolkit](https://www.nltk.org)
 
 [Word frequency Data](https://www.wordfrequency.info)
 
 [Corpus en español](http://www.corpusdelespanol.org/compare_corpes.asp)
-
-
-Clasificación de Naive Bayes y análsis de sentimiento 
 
 [Building a text classifier](https://www.thinkful.com/projects/building-a-text-classifier-using-naive-bayes-499/)
 
@@ -62,7 +65,5 @@ Clasificación de Naive Bayes y análsis de sentimiento
 (https://web.stanford.edu/%7Ejurafsky/slp3/slides/7_NB.pdf)
 
 (https://web.stanford.edu/%7Ejurafsky/slp3/slides/7_Sent.pdf)
-
-Vector Semantics
 
 [Sim Lex-999](https://fh295.github.io/simlex.html)
