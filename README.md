@@ -49,12 +49,6 @@ Vector Semantics
 
 Penn Treebank tokenization ftp://ftp.cis.upenn.edu/pub/treebank/public_html/tokenization.html
 
-[Satistical Laws in Linguistics](https://arxiv.org/pdf/1502.03296.pdf)
-
-[Zipft vs Heaps's law](http://boytsov.info/pubs/heaps2zipf.pdf)
-
-[Using 'uh' and 'um' in spontaneous speaking](http://www.columbia.edu/~rmk7/HC/HC_Readings/Clark_Fox.pdf)
-
 [Natural Language Toolkit](https://www.nltk.org)
 
 [NLTK Primer tutorial](https://pmoracho.github.io/blog/2017/01/04/NLTK-mi-tutorial/)
