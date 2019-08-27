@@ -55,7 +55,8 @@ Penn Treebank tokenization ftp://ftp.cis.upenn.edu/pub/treebank/public_html/toke
 
 [Using 'uh' and 'um' in spontaneous speaking](http://www.columbia.edu/~rmk7/HC/HC_Readings/Clark_Fox.pdf)
 
-[Natural Language Toolkit](https://www.nltk.org)
+[Natural Language Toolkit](https://www.nltk.org)(https://pmoracho.github.io/blog/2017/01/04/NLTK-mi-tutorial/
+)
 
 [Word frequency Data](https://www.wordfrequency.info)
 
