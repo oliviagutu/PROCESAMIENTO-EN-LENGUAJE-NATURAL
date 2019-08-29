@@ -45,7 +45,7 @@ Vector Semantics
 
 [Sed examples](http://sed.sourceforge.net/sed1line.txt)
 
-Penn Treebank tokenization ftp://ftp.cis.upenn.edu/pub/treebank/public_html/tokenization.html
+Penn Treebank tokenization (https://nlp.stanford.edu/software/tokenizer.html)
 
 [Natural Language Toolkit](https://www.nltk.org)
 
