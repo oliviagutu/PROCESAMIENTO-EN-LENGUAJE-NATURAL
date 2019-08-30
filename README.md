@@ -47,6 +47,8 @@ Vector Semantics
 
 Penn Treebank tokenization (https://nlp.stanford.edu/software/tokenizer.html)
 
+Porter Stemming algorithm (http://snowball.tartarus.org/algorithms/spanish/stemmer.html)
+
 [Natural Language Toolkit](https://www.nltk.org)
 
 [NLTK Primer tutorial](https://pmoracho.github.io/blog/2017/01/04/NLTK-mi-tutorial/)
