@@ -37,7 +37,9 @@ Vector Semantics
 
 [Minimun edit distance](https://eclass.uoa.gr/modules/document/file.php/D464/Σημειώσεις-Αρθρα/1.JonesPevz-ch6dynprogBio.pdf)
 
-[Porter Stemming Algorithm](https://tartarus.org/martin/PorterStemmer/)
+[Porter Stemming Algorithm -old](https://tartarus.org/martin/PorterStemmer/)
+
+[Porter Stemming Algorithm](https://snowballstem.org/algorithms/)
 
 [An algorithm for suffix stripping](https://www.cs.toronto.edu/~frank/csc2501/Readings/R2_Porter/Porter-1980.pdf)
 
