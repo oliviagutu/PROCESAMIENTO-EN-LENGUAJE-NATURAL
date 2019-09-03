@@ -51,6 +51,8 @@ Penn Treebank tokenization (https://nlp.stanford.edu/software/tokenizer.html)
 
 Porter Stemming algorithm (http://snowball.tartarus.org/algorithms/spanish/stemmer.html)
 
+Bigrams and trigrams in UNIX (https://greg.blog/2013/01/26/unix-bi-grams-tri-grams-and-topic-modeling/)
+
 [Natural Language Toolkit](https://www.nltk.org)
 
 [NLTK Primer tutorial](https://pmoracho.github.io/blog/2017/01/04/NLTK-mi-tutorial/)
