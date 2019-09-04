@@ -53,6 +53,14 @@ Porter Stemming algorithm (http://snowball.tartarus.org/algorithms/spanish/stemm
 
 Bigrams and trigrams in UNIX (https://greg.blog/2013/01/26/unix-bi-grams-tri-grams-and-topic-modeling/)
 
+Probability help:
+
+(https://www.youtube.com/watch?v=XQoLVl31ZfQ)
+
+https://www.khanacademy.org/math/ap-statistics/probability-ap/stats-conditional-probability/v/testing-independence-from-experimental-data
+
+
+
 [Natural Language Toolkit](https://www.nltk.org)
 
 [NLTK Primer tutorial](https://pmoracho.github.io/blog/2017/01/04/NLTK-mi-tutorial/)
