@@ -55,6 +55,8 @@ Bigrams and trigrams in UNIX (https://greg.blog/2013/01/26/unix-bi-grams-tri-gra
 
 Probability help:
 
+(https://www.math.arizona.edu/~jwatkins/F_condition.pdf)
+
 (https://www.youtube.com/watch?v=XQoLVl31ZfQ)
 
 https://www.khanacademy.org/math/ap-statistics/probability-ap/stats-conditional-probability/v/testing-independence-from-experimental-data
