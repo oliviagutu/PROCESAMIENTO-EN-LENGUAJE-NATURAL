@@ -61,7 +61,7 @@ Probability help:
 
 https://www.khanacademy.org/math/ap-statistics/probability-ap/stats-conditional-probability/v/testing-independence-from-experimental-data
 
-
+[n-grams smoothing](https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf)
 
 [Natural Language Toolkit](https://www.nltk.org)
 
