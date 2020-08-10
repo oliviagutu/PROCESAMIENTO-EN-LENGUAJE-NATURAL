@@ -4,13 +4,13 @@
 
 - **Profesora**: [Olivia Gutú](https://github.com/oliviagutu)
 
-- **Localización**: Cubículo 2, edificio 3K-4
+- **Localización**: Cubículo 2, edificio 3K-4 (ahora mi casa)
 
 - **Horario**: Lunes a viernes de 12:00 a 13:00 hrs.
 
-- **Asesorías**: Estaré disponible todos los días de 14:00 a 15:00 hrs. 
+- **Asesorías**: Estaré disponible todos los días de 14:00 a 15:00 hrs. (en clase)
 
-- **Aula**: 3K4-A101
+- **Aula**: 3K4-A101 (mi sala)
 
 - **Material**: 
    
